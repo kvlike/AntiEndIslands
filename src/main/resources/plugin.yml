@@ -1,0 +1,4 @@
+name: Endislands
+version: ${project.version}
+main: me.kvlike.endislands.Endislands
+api-version: 1.16
